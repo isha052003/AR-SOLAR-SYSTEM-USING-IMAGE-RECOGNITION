@@ -1,37 +1,69 @@
-# AR-SOLAR-SYSTEM-USING-IMAGE-RECOGNITION
+# AR Solar System Using Image Recognition 🌌🪐
 
-**AR Solar System Using Image Recognition** is an Augmented Reality-based educational application designed to make learning about the Solar System more interactive, visual, and engaging. The project combines **image recognition technology with Augmented Reality (AR)** to identify a predefined target image and place a virtual representation of the Solar System over the real-world environment.
+## Project Description
 
-The application allows users to explore **3D models of the Sun and planets** through their device camera. Once the target image is recognized, the AR system generates the corresponding virtual Solar System, enabling users to observe the planets and interact with them in real time. Users can view the models from different angles, zoom in or out, and explore the planetary system in a more immersive way than traditional textbook-based learning.
+**AR Solar System Using Image Recognition** is an Augmented Reality (AR) based educational application developed to provide an interactive and immersive way of learning about the Solar System.
 
-The main objective of this project is to demonstrate how **image recognition and Augmented Reality can be combined to create an interactive educational experience**. Instead of presenting astronomical information through static images or text, the application provides a visual representation that helps users understand the arrangement and appearance of celestial bodies more effectively.
+The application uses **image recognition technology** to identify a predefined target image through the device camera. Once the target image is detected, the application displays an interactive **3D representation of the Solar System** in an Augmented Reality environment.
 
-### Key Features
+Users can explore the Sun and planets through their device, observe the planetary system from different perspectives, and experience astronomical concepts in a more visual and engaging manner.
 
-* **Image Recognition:** Detects the predefined target image using the device camera.
-* **Augmented Reality:** Overlays virtual Solar System elements onto the recognized image.
-* **3D Planetary Models:** Displays interactive 3D representations of the Sun and planets.
-* **Interactive Visualization:** Allows users to observe and explore the virtual objects.
-* **Educational Purpose:** Helps users learn about the Solar System through an immersive visual experience.
-* **Real-Time Interaction:** The virtual objects appear and respond within the user's physical environment.
+The project demonstrates the practical application of **Image Recognition, Augmented Reality, 3D Visualization, and Interactive Learning**.
 
-### Objective
+---
 
-The primary objective of **AR Solar System Using Image Recognition** is to develop an interactive learning application that demonstrates the practical use of **Computer Vision, Image Recognition, 3D Visualization, and Augmented Reality**. The project aims to make astronomy education more engaging while demonstrating how AR technology can be applied to educational applications.
+## 👩‍💻 Author
 
-### Technologies Used
+**Isha Gupta**
 
-The project utilizes technologies related to **Augmented Reality, image recognition, 3D modelling, and interactive visualization** to recognize the target image and render the Solar System in an AR environment.
+---
 
-### How It Works
+## 🎯 Objectives
 
-1. The user opens the AR Solar System application.
-2. The device camera scans the surrounding environment.
-3. The image recognition system detects the predefined target image.
-4. Once the image is recognized, the application places the virtual Solar System over the detected image.
-5. The user can view and interact with the 3D planetary models.
-6. The AR environment provides an immersive way to explore the Solar System.
+The main objectives of this project are:
 
-### Conclusion
+- To develop an interactive AR-based educational application.
+- To use image recognition for detecting a predefined target image.
+- To display a virtual 3D Solar System after successful image detection.
+- To make learning about planets and the Solar System more engaging.
+- To demonstrate the use of Augmented Reality in education.
+- To provide users with an interactive visualization of astronomical objects.
 
-**AR Solar System Using Image Recognition** demonstrates the potential of Augmented Reality in education by transforming conventional learning content into an interactive 3D experience. By combining image recognition with AR visualization, the project provides users with an engaging way to explore the Solar System and understand astronomical concepts through direct visual interaction.
+---
+
+## ✨ Key Features
+
+- 🔍 **Image Recognition** – Detects the predefined target image using the device camera.
+- 🌌 **Augmented Reality** – Displays virtual Solar System elements in the real-world environment.
+- ☀️ **3D Solar System** – Provides a visual representation of the Sun and planets.
+- 🪐 **Interactive Visualization** – Allows users to observe the virtual planetary system.
+- 📚 **Educational Application** – Makes learning astronomy more interactive.
+- 📱 **Android Application** – The project can be installed and experienced on an Android device.
+
+---
+
+## 🛠️ Technologies Used
+
+- Augmented Reality (AR)
+- Image Recognition
+- 3D Modelling
+- Computer Vision
+- Android Application Development
+- 3D Visualization
+
+---
+
+## 📂 Project Structure
+
+```text
+AR-SOLAR-SYSTEM-USING-IMAGE-RECOGNITION/
+│
+├── README.md
+│
+├── AR-Solar-System.apk
+│
+├── Image-Target/
+│   └── solar-system-target.jpg
+│
+└── Screenshots/
+    └── ar-solar-system.png
