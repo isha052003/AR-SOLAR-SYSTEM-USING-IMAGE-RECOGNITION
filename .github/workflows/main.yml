@@ -1,0 +1,23 @@
+name: AR Solar System Project Validation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-project:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Verify Project Structure
+        run: |
+          test -f README.md
+          test -d Image-Target
+          test -d Screenshots
+          test -d Video-Capture
+          echo "AR Solar System project structure verified successfully."
