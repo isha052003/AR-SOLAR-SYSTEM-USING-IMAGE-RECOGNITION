@@ -70,8 +70,8 @@ The release contains the Android APK required to run the AR application.
 
 ### Installation
 
-1. Download the APK from the latest release.
-2. Transfer the APK to an Android device if required.
+1. Download the APK from the latest release i.e. v1.0
+2. Transfer the APK to an Android device (to access the application).
 3. Install the application.
 4. Open the application.
 5. Allow camera permission when prompted.
