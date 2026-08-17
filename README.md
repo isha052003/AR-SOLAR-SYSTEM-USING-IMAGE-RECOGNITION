@@ -172,3 +172,22 @@ Augmented Reality Triggered
 3D Solar System Displayed
    ↓
 Interactive Visualization
+
+
+## 🛠️ Development Tools
+
+### Unity
+Unity was used as the primary development environment for creating
+the Augmented Reality Solar System application, including the AR
+scene, image recognition setup, 3D visualization, and Android build.
+
+### Sketchfab
+Sketchfab was used for obtaining 3D graphical assets used in the
+Solar System visualization.
+
+### GitHub
+GitHub was used for project documentation, version control, asset
+organization, and distribution of the final application.
+
+### GitHub Releases
+The final Android APK is distributed through GitHub Releases.
